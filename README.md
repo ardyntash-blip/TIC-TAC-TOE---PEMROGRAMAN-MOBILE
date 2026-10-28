@@ -1,4 +1,4 @@
-<img width="591" height="1280" alt="WhatsApp Image 2026-10-29 at 01 13 45" src="https://github.com/user-attachments/assets/4272130a-db67-4818-85ee-e66215b689c9" /># Ardiyanti — Tic Tac Toe
+
 
 Aplikasi Tic Tac Toe untuk dua pemain pada satu perangkat. Dibuat dengan React Native, Expo, TypeScript, dan Expo Router.
 
