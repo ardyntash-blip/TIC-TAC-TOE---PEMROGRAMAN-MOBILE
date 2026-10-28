@@ -1,4 +1,4 @@
-# Ardiyanti — Tic Tac Toe
+<img width="591" height="1280" alt="WhatsApp Image 2026-10-29 at 01 13 45" src="https://github.com/user-attachments/assets/4272130a-db67-4818-85ee-e66215b689c9" /># Ardiyanti — Tic Tac Toe
 
 Aplikasi Tic Tac Toe untuk dua pemain pada satu perangkat. Dibuat dengan React Native, Expo, TypeScript, dan Expo Router.
 
@@ -143,3 +143,6 @@ Jika folder hasil ekstrak belum memiliki Git, jalankan `git init` sebelum `git a
 ## Lisensi
 
 Lisensi proyek belum ditentukan. Tambahkan file `LICENSE` jika ingin menetapkan izin penggunaan dan distribusi kode.
+
+## RUNNING APK IN IPHONE
+<img width="591" height="1280" alt="TICTACTOE" src="https://github.com/user-attachments/assets/16f5c9da-7e85-4ccb-bfa3-c66e4391a1ee" />
